@@ -1,0 +1,22 @@
+{
+  "name": "neighborhood_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neighborhoodwatcher/neighborhood_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neighborhoodwatcher/neighborhood_backend/issues"
+  },
+  "homepage": "https://github.com/neighborhoodwatcher/neighborhood_backend#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
